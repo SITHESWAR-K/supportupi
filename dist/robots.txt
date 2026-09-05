@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/edit/
+
+Sitemap: https://supportupi.web.app/sitemap.xml
